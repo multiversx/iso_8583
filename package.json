@@ -30,13 +30,11 @@
   },
   "homepage": "https://github.com/zemuldo/iso_8583/wiki",
   "dependencies": {
-    "date-fns": "^2.9.0",
-    "jxon": "^2.0.0-beta.5"
+    "date-fns": "^2.9.0"
   },
   "devDependencies": {
     "@babel/preset-typescript": "^7.18.6",
     "@types/jest": "^28.1.4",
-    "@types/jxon": "^2.0.1",
     "better-docs": "^2.7.2",
     "jest": "^28.1.2",
     "jsdoc": "^3.6.3",
